@@ -1,0 +1,78 @@
+html{
+    background-color: #F0F3FF;
+}
+h1{
+    font-size: 60px;
+    color: #836FFF;
+}
+.logo{
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    color: #211951;
+    font-size: 50px;
+}
+.trash{
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    color: #211951;
+    font-size: 80px;
+}
+.alone{
+    display: inline-block;
+    height: 350px;
+    width: 550px;
+    position: relative;
+}
+.dev{
+    display: inline-block;
+    height: 350px;
+    width: 550px;
+    position: absolute;
+    margin-left: 10%; 
+}
+.img-alone{
+    width: 400px;
+    height: 300px;
+    float: left;
+    position: relative;
+    margin: 0%;
+    padding: 0%;
+}
+.img-dev{
+    width: 400px;
+    height: 300px;
+    float: right;
+    margin: 0%;
+    padding: 0%;
+    
+}
+.alone p{
+    font-weight: bold;
+    font-size: larger;
+    font-style: italic;
+    text-align: right;
+    color: #836FFF;
+}
+.dev p{
+    font-weight: bold;
+    font-size: larger;
+    font-style: italic;
+    text-align: left;
+    margin-left: 10px;
+    color: #836FFF;
+}
+.moto{
+    position: relative;
+    margin-left: 80%;
+    font-weight: normal;
+    font-size: large;
+    color: #15F5BA;
+}
+footer{
+    text-align: center;
+    color: #836FFF;
+}
